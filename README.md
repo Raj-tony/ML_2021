@@ -7,6 +7,9 @@ Python for engineering.
 * The bot will ask the user for their choice to suggest them the appropriate model.
 * It will respond to user input appropriatly to suggest the best model.
 
+## Working sameple of chat_bot :
+* Youtube refrence link:  
+
 ## Team members:
 * 1. Venkata Rahul - 19pa1a0428
 * 2. Venna Rama Phani Teja - 19pa5a0326
