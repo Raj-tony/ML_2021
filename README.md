@@ -10,6 +10,8 @@ Python for engineering.
 ## Working sameple of chat_bot :
 * Youtube refrence link:  https://youtu.be/3ez_NYBsb6w 
 
+![atl text](E:\ML_2021\block diagram.jpeg)
+
 
 
 ## Team members:
