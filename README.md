@@ -10,7 +10,10 @@ Python for engineering.
 ## Working sameple of chat_bot :
 * Youtube refrence link:  https://youtu.be/3ez_NYBsb6w 
 
-![atl text](E:\ML_2021\block diagram.jpeg)
+## Block Diagram of chat_bot:
+
+![Image of Blockdiagram](https://s3.eu-west-2.amazonaws.com/ubisend.website/assets/hubfs/img/blog/chatbtot_flowchart.jpg)
+
 
 
 
