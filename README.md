@@ -19,5 +19,4 @@ Python for engineering.
 
 ## Team members:
 * 1. Venkata Rahul - 19pa1a0428
-* 2. Venna Rama Phani Teja - 19pa5a0326
-* 3. Paruchuri Venkata Naga Keerthi Sunayani - 19pa1a1293
+
