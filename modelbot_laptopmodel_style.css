@@ -1,0 +1,41 @@
+body {
+  background-image: url("https://www.fg-a.com/wallpapers/white-background-geo-shapes.jpg");
+  background-color: #cccccc; 
+  height: 500px; 
+  background-position: center; 
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center; 
+}
+
+.div { 
+    background-color: white; 
+    border: 5px solid black; 
+    color: green; 
+    padding: 5px 10px; 
+    text-align: center; 
+    display: inline-block; 
+    font-size: 20px; 
+    margin: 10px 30px; 
+    cursor: pointer; 
+    text-decoration:none; 
+  } 
+.first-name-field:focus:invalid + .message::after {
+  color: orange;
+  content: "Required your first name";
+}
+.email-field:focus:invalid + .message::after {
+  color: orange;
+  content: "Required email address";
+}
+
+.field {
+  border: 3px solid #ccc;
+  box-sizing: 3px border-box;
+  display: inline-block;
+  font-size: 16px;
+  padding: 5px;
+  margin-bottom: 15px;
+  width: 240px;
+  text-align: center; 
+}
