@@ -12,6 +12,14 @@ Python for engineering.
 
 ## Repl of chat_bot:  https://modelbot.chintavenkata.repl.co/
 
+## Sub links of repl.it  : 
+
+* 1.https://modelbot.chintavenkata.repl.co/
+* 2.https://modelbot2.chintavenkata.repl.co/
+* 3.https://modelbotbotfeatures.chintavenkata.repl.co/
+* 4.https://Modelbotlaptopmodel.chintavenkata.repl.co/
+
 ## Team members:
 * 1. Venkata Rahul - 19pa1a0428
+* 2. Yuva Teja - 19pa1a0439
 
